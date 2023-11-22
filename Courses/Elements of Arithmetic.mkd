@@ -1,0 +1,41 @@
+# Elements of Arithmetic
+
+## Description
+
+The course "Elements of Arithmetic" is designed to provide students with a foundational understanding of fundamental arithmetic concepts. The focus is on basic operations, number theory, and problem-solving strategies. Through theoretical study and practical applications, students will develop strong arithmetic skills that serve as a basis for more advanced mathematical courses.
+
+## List of Resources
+
+### Textbooks
+
+1. **Title: "Arithmetic for Beginners"**
+   - Author: John Mathson
+   - [Link to Book](http://example.com/arithmetic-for-beginners)
+
+2. **Title: "Number Theory Essentials"**
+   - Author: Emma Mathematica
+   - [Link to Book](http://example.com/number-theory-essentials)
+
+### Lecture Notes
+
+1. **Introduction to Arithmetic**
+   - [Link to Lecture Notes](http://example.com/intro-to-arithmetic)
+
+2. **Basic Operations and Problem Solving**
+   - [Link to Lecture Notes](http://example.com/basic-operations)
+
+### Online Resources
+
+1. **Khan Academy - Arithmetic Playlist**
+   - [Link to Khan Academy](http://khanacademy.org/arithmetic-playlist)
+
+2. **Wolfram Alpha - Arithmetic Overview**
+   - [Link to Wolfram Alpha](http://wolframalpha.com/arithmetic-overview)
+
+### Practice Problems
+
+1. **Project Euler - Arithmetic Challenges**
+   - [Link to Project Euler](http://projecteuler.net/arithmetic-challenges)
+
+2. **Art of Problem Solving (AoPS) - Arithmetic Alcumus**
+   - [Link to AoPS Alcumus](http://artofproblemsolving.com/alcumus)
