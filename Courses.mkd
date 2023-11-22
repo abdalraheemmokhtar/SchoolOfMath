@@ -3,7 +3,7 @@
 ## First Year
 | Course                    | Credit Hours |
 |-----------------------    |--------------|
-| [Elements of Arithmetic](https://press.princeton.edu/books/hardcover/9780691171685/elements-of-mathematics)    | 3 |
+| [Elements of Arithmetic](https://github.com/abdalraheemmokhtar/SchoolOfMath/blob/main/Courses/Elements%20of%20Arithmetic.mkd)   | 3 |
 | Introduction of Probability & Statistics | 4 |
 |Foundations of Mathematics  | 3|
 | Algebra & Geometry         | 5            |
