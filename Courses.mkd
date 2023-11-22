@@ -1,30 +1,78 @@
 # University Courses Table of Contents
+## Statistics & Computer Science Major
+## First Year
+| Course                    | Credit Hours |
+|-----------------------    |--------------|
+| Elements of Arithmetic    | 3 |
+| Introduction of Probability & Statistics | 4 |
+|Foundations of Mathematics  | 3|
+| Algebra & Geometry         | 5            |
+| Calculus I |        4     |
+|  Calculus II |        4      |
+|Vectors & Mechanics |      3        |
+|Computer Science Fundamentals I | 3  |
+|Computer Science Fundamentals II | 4  |
 
-## Semester 1
+## Second Year
+| Course                    | Credit Hours |
+|-----------------------    |--------------|
+| Probability and Statistics    | 3 |
+| Elementary Statistics | 4 |
+|Multivariable Functions  | 4|
+| Linear Algebra         | 3           |
+| Real Analysis I |        3     |
+|Ordinary Differential Equations I |        3     |
+|Ordinary Differential Equations II |      4        |
+|Vector Analysis | 3  |
+|Discrete Mathematics | 3  |
+|Numerical Computation I | 3  |
+|Algorithms & Data Structure | 3  |
 
-| Course                | Credit Hours |
-|-----------------------|--------------|
-| Introduction to XYZ   | 3            |
-| Mathematics I         | 4            |
-| History of Science    | 3            |
-| English Composition   | 3            |
+## Third Year
 
-## Semester 2
+| Course                    | Credit Hours |
+|-----------------------    |--------------|
+Least Squares		        | 3|
+Practical Statistics		|3|
+Statistical Methods		    | 3|
+Real Analysis II		    | 3|
+Algebric Structures		    | 3|
+Combinatory		            | 3|
+Complex Variables I		    | 3|
+Complex Variables II		| 3|
+Special Functions & Math. Methods| 3|		
+Programming Methodologies		| 3|
+Systems Analysis and Design	| 3|	
+Files Management Systems	| 2|	
 
-| Course                | Credit Hours |
-|-----------------------|--------------|
-| Physics Fundamentals  | 4            |
-| Computer Science I    | 3            |
-| Literature Survey     | 3            |
-| Statistics            | 3            |
+## Fourth Year 
+| Course                    | Credit Hours |
+|-----------------------    |--------------|
+Operation Research I|			3	|
+Sampling Techniques	|		3	|
+Statistical Inference|			3	|
+Applied Statistics (R )	|		3	|
+Research Methodologies	|		3	|
+Computer Commercial Application	|		4	|
+Operating Systems	|		4	|
+Files and Databases	|		4	|
+Computer Networks	|		4	|
+Software Engineering		|	4	|
 
-## Semester 3
+## Fifth Year
+| Course                    | Credit Hours |
+|-----------------------    |--------------|
+Introduction to Random Processes	|		3	|
+Bayesian Methods|			3	|
+Design and Analysis of Experiments	|		3	|
+Time Series		|	3	|
+Survival Analysis	|		3	|
+Concept of Programming Languages	|		4	|
+Advanced Database Systems|			4	|
+Management of Information Systems	|		4	|
+Analysis and Design of Algorithms	|		4	|
+Parallel Processing Systems	|		4	|
+Project		|	4	|
 
-| Course                | Credit Hours |
-|-----------------------|--------------|
-| Advanced Mathematics  | 4            |
-| Data Structures       | 3            |
-| Philosophy of Science | 3            |
-| Communication Skills  | 2            |
 
 
