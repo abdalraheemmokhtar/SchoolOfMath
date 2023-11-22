@@ -1,0 +1,30 @@
+# University Courses Table of Contents
+
+## Semester 1
+
+| Course                | Credit Hours |
+|-----------------------|--------------|
+| Introduction to XYZ   | 3            |
+| Mathematics I         | 4            |
+| History of Science    | 3            |
+| English Composition   | 3            |
+
+## Semester 2
+
+| Course                | Credit Hours |
+|-----------------------|--------------|
+| Physics Fundamentals  | 4            |
+| Computer Science I    | 3            |
+| Literature Survey     | 3            |
+| Statistics            | 3            |
+
+## Semester 3
+
+| Course                | Credit Hours |
+|-----------------------|--------------|
+| Advanced Mathematics  | 4            |
+| Data Structures       | 3            |
+| Philosophy of Science | 3            |
+| Communication Skills  | 2            |
+
+
