@@ -1,0 +1,41 @@
+# Introduction to Probability & Statistics
+
+## Description
+
+The course "Introduction to Probability & Statistics" offers students an entry point into the world of probability and statistical analysis. Covering foundational concepts such as probability theory, descriptive statistics, and inferential statistics, this course provides a solid groundwork for understanding and interpreting data in various fields.
+
+## List of Resources
+
+### Textbooks
+
+1. **Title: "Introduction to Probability and Statistics"**
+   - Author: William Mendenhall, Robert J. Beaver, Barbara M. Beaver
+   - [Link to Book](http://example.com/intro-to-probability-statistics)
+
+2. **Title: "Statistics"**
+   - Author: Robert S. Witte, John S. Witte
+   - [Link to Book](http://example.com/statistics-witte)
+
+### Lecture Notes
+
+1. **Probability Fundamentals**
+   - [Link to Lecture Notes](http://example.com/probability-fundamentals)
+
+2. **Descriptive Statistics**
+   - [Link to Lecture Notes](http://example.com/descriptive-statistics)
+
+### Online Resources
+
+1. **Khan Academy - Probability and Statistics**
+   - [Link to Khan Academy](http://khanacademy.org/probability-statistics)
+
+2. **Stat Trek - Statistics and Probability Lessons**
+   - [Link to Stat Trek](http://stattrek.com/statistics)
+
+### Practice Problems
+
+1. **OpenIntro - Practice Statistics Exercises**
+   - [Link to OpenIntro](http://www.openintro.org/stat/exercises)
+
+2. **Wolfram Alpha - Probability and Statistics Problems**
+   - [Link to Wolfram Alpha](http://wolframalpha.com/probability-statistics-problems)
