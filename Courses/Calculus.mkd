@@ -1,0 +1,41 @@
+# Calculus I
+
+## Description
+
+The course "Calculus I" provides students with a comprehensive introduction to foundational concepts in calculus. Emphasis is placed on understanding limits, derivatives, and integrals, paving the way for a deeper understanding of mathematical analysis and its applications in various fields.
+
+## List of Resources
+
+### Textbooks
+
+1. **Title: "Calculus: Early Transcendentals"**
+   - Author: James Stewart
+   - [Link to Book](http://example.com/calculus-early-transcendentals)
+
+2. **Title: "Introduction to Real Analysis"**
+   - Author: Robert G. Bartle, Donald R. Sherbert
+   - [Link to Book](http://example.com/real-analysis-introduction)
+
+### Lecture Notes
+
+1. **Introduction to Limits**
+   - [Link to Lecture Notes](http://example.com/intro-to-limits)
+
+2. **Derivatives and Their Applications**
+   - [Link to Lecture Notes](http://example.com/derivatives-and-applications)
+
+### Online Resources
+
+1. **MIT OpenCourseWare - Single Variable Calculus**
+   - [Link to MIT OCW](http://ocw.mit.edu/single-variable-calculus)
+
+2. **Paul's Online Math Notes - Calculus I Notes**
+   - [Link to Paul's Notes](http://tutorial.math.lamar.edu/calculusI)
+
+### Practice Problems
+
+1. **Khan Academy - Calculus Practice**
+   - [Link to Khan Academy](http://khanacademy.org/calculus-practice)
+
+2. **Wolfram Alpha - Calculus Examples**
+   - [Link to Wolfram Alpha](http://wolframalpha.com/calculus-examples)
