@@ -1,0 +1,41 @@
+# Calculus II
+
+## Description
+
+The course "Calculus II" builds upon the foundational concepts introduced in Calculus I, delving deeper into integral calculus, sequences, series, and applications of derivatives and integrals. Through advanced mathematical techniques, this course prepares students for further studies in calculus and its applications.
+
+## List of Resources
+
+### Textbooks
+
+1. **Title: "Calculus: Concepts and Contexts"**
+   - Author: James Stewart
+   - [Link to Book](http://example.com/calculus-concepts-contexts)
+
+2. **Title: "Introduction to Calculus and Analysis II/1"**
+   - Author: Richard Courant, Fritz John
+   - [Link to Book](http://example.com/intro-to-calculus-analysis-II)
+
+### Lecture Notes
+
+1. **Integral Calculus and Techniques**
+   - [Link to Lecture Notes](http://example.com/integral-calculus-techniques)
+
+2. **Sequences and Series**
+   - [Link to Lecture Notes](http://example.com/sequences-and-series)
+
+### Online Resources
+
+1. **Khan Academy - Calculus II Playlist**
+   - [Link to Khan Academy](http://khanacademy.org/calculus-II-playlist)
+
+2. **Paul's Online Math Notes - Calculus II Notes**
+   - [Link to Paul's Notes](http://tutorial.math.lamar.edu/calculusII)
+
+### Practice Problems
+
+1. **Wolfram Alpha - Calculus II Practice Problems**
+   - [Link to Wolfram Alpha](http://wolframalpha.com/calculus-II-practice)
+
+2. **MIT OpenCourseWare - Multivariable Calculus Problems**
+   - [Link to MIT OCW](http://ocw.mit.edu/multivariable-calculus)
