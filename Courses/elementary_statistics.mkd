@@ -1,0 +1,41 @@
+# Elementary Statistics
+
+## Description
+
+The course "Elementary Statistics" introduces students to the fundamental concepts of descriptive and inferential statistics. Covering topics such as data analysis, probability, hypothesis testing, and regression analysis, this course provides a solid foundation for understanding and interpreting statistical information.
+
+## List of Resources
+
+### Textbooks
+
+1. **Title: "Elementary Statistics: A Step by Step Approach"**
+   - Author: Allan G. Bluman
+   - [Link to Book](http://example.com/elementary-statistics-step-by-step)
+
+2. **Title: "Statistics"**
+   - Authors: Robert S. Witte, John S. Witte
+   - [Link to Book](http://example.com/statistics-witte)
+
+### Lecture Notes
+
+1. **Descriptive Statistics and Data Visualization**
+   - [Link to Lecture Notes](http://example.com/descriptive-statistics-data-visualization)
+
+2. **Inferential Statistics and Hypothesis Testing**
+   - [Link to Lecture Notes](http://example.com/inferential-statistics-hypothesis-testing)
+
+### Online Resources
+
+1. **Khan Academy - Statistics and Probability**
+   - [Link to Khan Academy](http://khanacademy.org/statistics-probability)
+
+2. **Stat Trek - Online Statistics Learning Center**
+   - [Link to Stat Trek](http://stattrek.com)
+
+### Practice Problems
+
+1. **Wolfram Alpha - Statistics Examples**
+   - [Link to Wolfram Alpha](http://wolframalpha.com/statistics-examples)
+
+2. **OnlineStatBook - Statistics Concepts and Applications**
+   - [Link to OnlineStatBook](http://onlinestatbook.com/statistics)

@@ -1,0 +1,41 @@
+# Multivariable Functions
+
+## Description
+
+The course "Multivariable Functions" extends the study of functions to multiple variables. Topics covered include partial derivatives, multiple integrals, vector-valued functions, and applications in calculus and physics. This course is essential for understanding functions in contexts involving more than one variable.
+
+## List of Resources
+
+### Textbooks
+
+1. **Title: "Calculus: Early Transcendentals"**
+   - Author: James Stewart
+   - [Link to Book](http://example.com/calculus-early-transcendentals)
+
+2. **Title: "Vector Calculus"**
+   - Author: Jerrold E. Marsden, Anthony J. Tromba
+   - [Link to Book](http://example.com/vector-calculus)
+
+### Lecture Notes
+
+1. **Partial Derivatives and Gradients**
+   - [Link to Lecture Notes](http://example.com/partial-derivatives-gradients)
+
+2. **Multiple Integrals and Applications**
+   - [Link to Lecture Notes](http://example.com/multiple-integrals-applications)
+
+### Online Resources
+
+1. **Khan Academy - Multivariable Calculus**
+   - [Link to Khan Academy](http://khanacademy.org/multivariable-calculus)
+
+2. **Paul's Online Math Notes - Multivariable Calculus Notes**
+   - [Link to Paul's Notes](http://tutorial.math.lamar.edu/multivariable-calculus)
+
+### Practice Problems
+
+1. **Wolfram Alpha - Multivariable Calculus Practice**
+   - [Link to Wolfram Alpha](http://wolframalpha.com/multivariable-calculus-practice)
+
+2. **MIT OpenCourseWare - Multivariable Calculus Problem Sets**
+   - [Link to MIT OCW](http://ocw.mit.edu/multivariable-calculus)
