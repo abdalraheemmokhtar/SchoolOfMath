@@ -1,0 +1,41 @@
+# Real Analysis
+
+## Description
+
+The course "Real Analysis" delves into the rigorous study of real numbers and functions. Covering topics such as limits, continuity, differentiability, and integration, this course provides students with a deep understanding of the foundational concepts in mathematical analysis.
+
+## List of Resources
+
+### Textbooks
+
+1. **Title: "Principles of Mathematical Analysis"**
+   - Author: Walter Rudin
+   - [Link to Book](http://example.com/principles-of-mathematical-analysis)
+
+2. **Title: "Real Mathematical Analysis"**
+   - Author: Charles C. Pugh
+   - [Link to Book](http://example.com/real-mathematical-analysis)
+
+### Lecture Notes
+
+1. **Limits and Continuity**
+   - [Link to Lecture Notes](http://example.com/limits-continuity)
+
+2. **Differentiation and Integration**
+   - [Link to Lecture Notes](http://example.com/differentiation-integration)
+
+### Online Resources
+
+1. **MIT OpenCourseWare - Real Analysis**
+   - [Link to MIT OCW](http://ocw.mit.edu/real-analysis)
+
+2. **Khan Academy - Real Analysis**
+   - [Link to Khan Academy](http://khanacademy.org/real-analysis)
+
+### Practice Problems
+
+1. **Paul's Online Math Notes - Real Analysis Exercises**
+   - [Link to Paul's Notes](http://tutorial.math.lamar.edu/real-analysis)
+
+2. **Brilliant.org - Real Analysis Practice**
+   - [Link to Brilliant.org](http://brilliant.org/real-analysis)
