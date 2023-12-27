@@ -1,0 +1,41 @@
+# Least Squares
+
+## Description
+
+The course "Least Squares" focuses on the least squares method, a mathematical approach used for fitting a mathematical model to observed data. This technique is widely used in regression analysis, curve fitting, and solving overdetermined systems. The course covers both the theoretical foundations and practical applications of the least squares method.
+
+## List of Resources
+
+### Textbooks
+
+1. **Title: "Numerical Linear Algebra"**
+   - Author: Lloyd N. Trefethen, David Bau III
+   - [Link to Book](http://example.com/numerical-linear-algebra)
+
+2. **Title: "Introduction to the Theory of Statistics"**
+   - Authors: Alexander M. Mood, Franklin A. Graybill, Duane C. Boes
+   - [Link to Book](http://example.com/intro-theory-of-statistics)
+
+### Lecture Notes
+
+1. **Introduction to Least Squares**
+   - [Link to Lecture Notes](http://example.com/intro-to-least-squares)
+
+2. **Applications in Regression Analysis**
+   - [Link to Lecture Notes](http://example.com/applications-regression-analysis)
+
+### Online Resources
+
+1. **Coursera - Machine Learning: Regression**
+   - [Link to Coursera Course](http://coursera.org/machine-learning-regression)
+
+2. **MathWorks - Least Squares Regression**
+   - [Link to MathWorks Documentation](http://mathworks.com/least-squares-regression)
+
+### Practice Problems
+
+1. **Kaggle - Regression Challenges**
+   - [Link to Kaggle Challenges](http://kaggle.com/competitions)
+
+2. **Wolfram Alpha - Least Squares Calculator**
+   - [Link to Wolfram Alpha](http://wolframalpha.com/least-squares-calculator)
