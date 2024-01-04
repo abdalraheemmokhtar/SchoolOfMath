@@ -1,0 +1,41 @@
+# Statistical Methods
+
+## Description
+
+The course "Statistical Methods" provides an in-depth exploration of various statistical techniques used for data analysis and inference. Covering topics such as hypothesis testing, regression analysis, and experimental design, this course equips students with the tools necessary to analyze and interpret data in a wide range of disciplines.
+
+## List of Resources
+
+### Textbooks
+
+1. **Title: "Statistical Methods for the Social Sciences"**
+   - Author: Alan Agresti, Barbara Finlay
+   - [Link to Book](http://example.com/statistical-methods-social-sciences)
+
+2. **Title: "Introduction to the Practice of Statistics"**
+   - Authors: David S. Moore, George P. McCabe, Bruce A. Craig
+   - [Link to Book](http://example.com/intro-practice-of-statistics)
+
+### Lecture Notes
+
+1. **Hypothesis Testing and Confidence Intervals**
+   - [Link to Lecture Notes](http://example.com/hypothesis-testing-confidence-intervals)
+
+2. **Regression Analysis and Experimental Design**
+   - [Link to Lecture Notes](http://example.com/regression-analysis-experimental-design)
+
+### Online Resources
+
+1. **Khan Academy - Statistics and Probability**
+   - [Link to Khan Academy](http://khanacademy.org/statistics-probability)
+
+2. **Statistics.com - Online Statistical Courses**
+   - [Link to Statistics.com](http://statistics.com)
+
+### Practice Problems
+
+1. **Stat Trek - Statistical Exercises**
+   - [Link to Stat Trek](http://stattrek.com/statistics/exercises)
+
+2. **R Tutorial - Data Analysis and Visualization with R**
+   - [Link to R Tutorial](http://r-tutorials.com)
