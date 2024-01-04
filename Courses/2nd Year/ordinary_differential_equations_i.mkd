@@ -1,0 +1,41 @@
+# Ordinary Differential Equations I
+
+## Description
+
+The course "Ordinary Differential Equations I" introduces students to the study of differential equations involving a single independent variable. Topics covered include first-order differential equations, second-order linear differential equations, and their applications in various scientific and engineering fields.
+
+## List of Resources
+
+### Textbooks
+
+1. **Title: "Elementary Differential Equations and Boundary Value Problems"**
+   - Authors: William E. Boyce, Richard C. DiPrima
+   - [Link to Book](http://example.com/elementary-differential-equations)
+
+2. **Title: "Differential Equations and Their Applications"**
+   - Author: Martin Braun
+   - [Link to Book](http://example.com/differential-equations-applications)
+
+### Lecture Notes
+
+1. **First-Order Differential Equations**
+   - [Link to Lecture Notes](http://example.com/first-order-differential-equations)
+
+2. **Second-Order Linear Differential Equations**
+   - [Link to Lecture Notes](http://example.com/second-order-linear-differential-equations)
+
+### Online Resources
+
+1. **Khan Academy - Differential Equations**
+   - [Link to Khan Academy](http://khanacademy.org/differential-equations)
+
+2. **MIT OpenCourseWare - Differential Equations**
+   - [Link to MIT OCW](http://ocw.mit.edu/differential-equations)
+
+### Practice Problems
+
+1. **Paul's Online Math Notes - Differential Equations Practice**
+   - [Link to Paul's Notes](http://tutorial.math.lamar.edu/differential-equations)
+
+2. **Wolfram Alpha - Differential Equations Solver**
+   - [Link to Wolfram Alpha](http://wolframalpha.com/differential-equations-solver)

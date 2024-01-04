@@ -1,0 +1,41 @@
+# Linear Algebra
+
+## Description
+
+The course "Linear Algebra" explores the fundamental concepts of vector spaces, matrices, and linear transformations. Covering topics such as eigenvalues, eigenvectors, and applications in various fields, this course provides a solid foundation for understanding and solving linear systems in mathematics and applications.
+
+## List of Resources
+
+### Textbooks
+
+1. **Title: "Linear Algebra and Its Applications"**
+   - Authors: David C. Lay, Steven R. Lay, Judi J. McDonald
+   - [Link to Book](http://example.com/linear-algebra-applications)
+
+2. **Title: "Introduction to Linear Algebra"**
+   - Author: Gilbert Strang
+   - [Link to Book](http://example.com/intro-to-linear-algebra)
+
+### Lecture Notes
+
+1. **Vector Spaces and Subspaces**
+   - [Link to Lecture Notes](http://example.com/vector-spaces-subspaces)
+
+2. **Eigenvalues and Eigenvectors**
+   - [Link to Lecture Notes](http://example.com/eigenvalues-eigenvectors)
+
+### Online Resources
+
+1. **MIT OpenCourseWare - Linear Algebra**
+   - [Link to MIT OCW](http://ocw.mit.edu/linear-algebra)
+
+2. **3Blue1Brown - Essence of Linear Algebra Video Series**
+   - [Link to 3Blue1Brown](http://3blue1brown.com/essence-of-linear-algebra)
+
+### Practice Problems
+
+1. **Khan Academy - Linear Algebra Practice**
+   - [Link to Khan Academy](http://khanacademy.org/linear-algebra-practice)
+
+2. **Paul's Online Math Notes - Linear Algebra Exercises**
+   - [Link to Paul's Notes](http://tutorial.math.lamar.edu/linear-algebra)
